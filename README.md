@@ -8,4 +8,4 @@ __Project Description:__ <Short description of the project (1-2 sentences)>
 
 __Webscraped URL:__ <WEBPAGE NAME/TITLE and URL for webpage selected>
 
-__Collaborator:__ Sydney Southerland (sasoutherland@my.waketech.edu)
+__Collaborator:__ Sydney Southerland (sasoutherland@my.waketech.edu) __ACCEPTED__

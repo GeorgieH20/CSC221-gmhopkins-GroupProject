@@ -8,4 +8,4 @@ Project Description: <Short description of the project (1-2 sentences)>
 
 Webscraped URL: <WEBPAGE NAME/TITLE and URL for webpage selected>
 
-Collaborator: Sydney Southerland sasoutherland@my.waketech.edu
+Collaborator: Sydney Southerland (sasoutherland@my.waketech.edu)

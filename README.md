@@ -1,11 +1,11 @@
 # CSC221-gmhopkins-GroupProject
 
-Group Project for CSC 221 2021SP
+<h1>Group Project for CSC 221 2021SP<h1>
 
-Owner: Georgie Hopkins gmhopkins@my.waketech.edu
+<b>Owner:</b> Georgie Hopkins gmhopkins@my.waketech.edu
 
-Project Description: <Short description of the project (1-2 sentences)>
+<b>Project Description:</b> <Short description of the project (1-2 sentences)>
 
-Webscraped URL: <WEBPAGE NAME/TITLE and URL for webpage selected>
+<b>Webscraped URL:</b> <WEBPAGE NAME/TITLE and URL for webpage selected>
 
-Collaborator: Sydney Southerland (sasoutherland@my.waketech.edu)
+<b>Collaborator:</b> Sydney Southerland (sasoutherland@my.waketech.edu)

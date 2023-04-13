@@ -1,6 +1,6 @@
 # CSC221-gmhopkins-GroupProject
 
-<h1>Group Project for CSC 221 2021SP<h1>
+Group Project for CSC 221 2021SP
 
 __Owner:__ Georgie Hopkins gmhopkins@my.waketech.edu
 

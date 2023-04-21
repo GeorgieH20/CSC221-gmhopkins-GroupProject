@@ -1,51 +1,23 @@
-,Rank,Player,Pos,Team(s) played for (years),Total points,Games played,Points per game,Field goals made,Three-point field goals made,Free throws made
-0,1,LeBron James,SF,Cleveland Cavaliers,"38,652","1,421",27.2,"14,152","2,261","8,087"
-1,2,Kareem Abdul-Jabbar,C,Milwaukee Bucks,"38,387","1,560",24.6,"15,837",1,"6,712"
-2,3,Karl Malone,PF,Utah Jazz,"36,928","1,476",25.0,"13,528",85,"9,787"
-3,4,Kobe Bryant,SG,Los Angeles Lakers,"33,643","1,346",25.0,"11,719","1,827","8,378"
-4,5,Michael Jordan,SG,Chicago Bulls,"32,292","1,072",30.1,"12,192",581,"7,327"
-5,6,Dirk Nowitzki,PF/C,Dallas Mavericks,"31,560","1,522",20.7,"11,169","1,982","7,240"
-6,7,Wilt Chamberlain,C,Philadelphia/San Francisco Warriors,"31,419","1,045",30.1,"12,681",n/a,"6,057"
-7,8,Shaquille O'Neal,C,Orlando Magic,"28,596","1,207",23.7,"11,330",1,"5,935"
-8,9,Carmelo Anthony,SF,Denver Nuggets,"28,289","1,260",22.5,"10,119","1,731","6,320"
-9,10,Moses Malone,C,Buffalo Braves,"27,409","1,329",20.6,"9,435",8,"8,531"
-10,11,Elvin Hayes,PF/C,San Diego/Houston Rockets,"27,313","1,303",21.0,"10,976",5,"5,356"
-11,12,Hakeem Olajuwon,C,Houston Rockets,"26,946","1,238",21.8,"10,749",25,"5,423"
-12,13,Kevin Durant,SF/PF,Seattle SuperSonics,"26,892",986,27.3,"9,199","1,863","6,631"
-13,14,Oscar Robertson,PG,Cincinnati Royals,"26,710","1,040",25.7,"9,508",n/a,"7,694"
-14,15,Dominique Wilkins,SF,Atlanta Hawks,"26,668","1,074",24.8,"9,963",711,"6,031"
-15,16,Tim Duncan,PF/C,San Antonio Spurs,"26,496","1,392",19.0,"10,285",30,"5,896"
-16,17,Paul Pierce,SF/SG,Boston Celtics,"26,397","1,343",19.7,"8,668","2,143","6,918"
-17,18,John Havlicek,SF/SG,Boston Celtics,"26,395","1,270",20.8,"10,513",n/a,"5,369"
-18,19,Kevin Garnett,PF/C,Minnesota Timberwolves,"26,071","1,462",17.8,"10,505",174,"4,887"
-19,20,Vince Carter,SG/SF,Toronto Raptors,"25,728","1,541",16.7,"9,293","2,290","4,852"
-20,21,Alex English,SF,Milwaukee Bucks,"25,613","1,193",21.5,"10,659",18,"4,277"
-21,22,Reggie Miller,SG,Indiana Pacers,"25,279","1,389",18.2,"8,241","2,560","6,237"
-22,23,Jerry West,PG/SG,Los Angeles Lakers,"25,192",932,27.0,"9,016",n/a,"7,160"
-23,24,Patrick Ewing,C,New York Knicks,"24,815","1,183",21.0,"9,702",19,"5,392"
-24,25,James Harden,SG/PG,Oklahoma City Thunder,"24,693","1,000",24.7,"7,291","2,754","7,357"
-25,26,Ray Allen,SG,Milwaukee Bucks,"24,505","1,300",18.9,"8,567","2,973","4,398"
-26,27,Russell Westbrook,PG,Oklahoma City Thunder,"24,457","1,094",22.4,"8,754","1,231","5,718"
-27,28,Allen Iverson,SG/PG,Philadelphia 76ers,"24,368",914,26.7,"8,467","1,059","6,375"
-28,29,Charles Barkley,PF,Philadelphia 76ers,"23,757","1,073",22.1,"8,435",538,"6,349"
-29,30,Robert Parish,C,Golden State Warriors,"23,334","1,611",14.5,"9,614",0,"4,106"
-30,31,,SF,Buffalo Braves,"23,177",955,24.3,"8,169",7,"6,832"
-31,32,Dwyane Wade,SG,Miami Heat,"23,165","1,054",22.0,"8,454",549,"5,708"
-32,33,Elgin Baylor,SF,Minneapolis/Los Angeles Lakers,"23,149",846,27.4,"8,693",n/a,"5,763"
-33,34,Clyde Drexler,SG,Portland Trail Blazers,"22,195","1,086",20.4,"8,335",827,"4,698"
-34,35,Gary Payton,PG,Seattle SuperSonics,"21,813","1,335",16.3,"8,708","1,132","3,265"
-35,36,Larry Bird,SF/PF,Boston Celtics,"21,791",897,24.3,"8,591",649,"3,960"
-36,37,Chris Paul,PG,New Orleans Hornets,"21,755","1,214",17.9,"7,692","1,642","4,729"
-37,38,Stephen Curry,PG,Golden State Warriors,"21,712",882,24.6,"7,434","3,390","3,454"
-38,39,DeMar DeRozan,SG/SF,Toronto Raptors,"21,685","1,031",21.0,"7,790",456,"5,649"
-39,40,Hal Greer,SG/PG,Syracuse Nationals/Philadelphia 76ers,"21,586","1,122",19.2,"8,504",n/a,"4,578"
-40,41,Walt Bellamy,C,Chicago Packers/Zephyrs/Baltimore Bullets,"20,941","1,043",20.1,"7,914",n/a,"5,113"
-41,42,Pau Gasol,PF/C,Memphis Grizzlies,"20,894","1,226",17.0,"7,980",179,"4,755"
-42,43,Bob Pettit,PF/C,Milwaukee/St. Louis Hawks,"20,880",792,26.4,"7,349",n/a,"6,182"
-43,44,David Robinson,C,San Antonio Spurs,"20,790",987,21.1,"7,365",25,"6,035"
-44,45,George Gervin,SG/SF,San Antonio Spurs,"20,708",791,26.2,"8,045",77,"4,541"
-45,46,LaMarcus Aldridge,PF/C,Portland Trail Blazers,"20,558","1,076",19.1,"8,311",227,"3,709"
-46,47,Mitch Richmond,SG,Golden State Warriors,"20,497",976,21.0,"7,305","1,326","4,561"
-47,48,Joe Johnson,SG/SF,Boston Celtics,"20,407","1,277",16.0,"7,823","1,978","2,783"
-48,49,Tom Chambers,PF,San Diego Clippers,"20,049","1,107",18.1,"7,378",227,"5,066"
-49,50,Antawn Jamison,PF/SF,Golden State Warriors,"20,042","1,083",18.5,"7,679","1,163","3,521"
+,Finish,Program Number,Horse,Qualifying Points,Trainer,Jockey,Morning Line Odds,Final Odds,Margin,Winnings
+0,1,21,Rich Strike,21,Eric Reed,Sonny Leon,30-1,80.80,,"$1,860,000"
+1,2,3,Epicenter,164,Steve Asmussen,Joel Rosario,7-2,4.10,3,"$600,000"
+2,3,10,Zandon,114,Chad C. Brown,Flavien Prat,3-1,6.10,1,"$300,000"
+3,4,13,Simplification,74,Antonio Sano,José Ortiz,20-1,35.30,3,"$150,000"
+4,5,1,Mo Donegal,112,Todd A. Pletcher,Irad Ortiz Jr.,10-1,10.10,3,"$90,000"
+5,6,14,Barber Road,58,John Ortiz,Reylu Gutierrez,30-1,60.40,4,
+6,7,18,Tawny Port,60,Brad H. Cox,Ricardo Santana Jr.,30-1,80.50,4,
+7,8,5,Smile Happy,70,Kenneth G. McPeek,Corey Lanerie,20-1,14.10,10,
+8,9,9,Tiz the Bomb,110,Kenneth G. McPeek,Brian Hernandez Jr.,30-1,31.00,12,
+9,10,19,Zozos,40,Brad H. Cox,Manuel Franco,20-1,48.70,15,
+10,11,17,Classic Causeway,66,Brian A. Lynch,Julien Leparoux,30-1,78.90,17,
+11,12,12,Taiba,100,Tim Yakteen,Mike E. Smith,12-1,5.80,17,
+12,13,7,Crown Pride,100,Koichi Shintani,Christophe Lemaire,20-1,17.50,18,
+13,14,2,Happy Jack,30,Doug F. O'Neill,Rafael Bejarano,30-1,23.20,19,
+14,15,6,Messier,40,Tim Yakteen,John Velazquez,8-1,7.10,19,
+15,16,15,White Abarrio,112,Saffie Joseph Jr.,Tyler Gaffalione,10-1,15.40,20,
+16,17,8,Charge It,40,Todd A. Pletcher,Luis Saez,20-1,16.00,28,
+17,18,16,Cyberknife,100,Brad H. Cox,Florent Geroux,20-1,14.90,42,
+18,19,11,Pioneer of Medina,25,Todd A. Pletcher,Joe Bravo,30-1,55.90,57,
+19,20,4,Summer Is Tomorrow,40,Bhupat Seemar,Mickael Barzalona,30-1,36.80,64,
+20,scratched,20,Ethereal Road,22,D. Wayne Lukas,Luis Contreras,30-1,n/a,,
+21,,AE,Rattle N Roll,20,Kenneth G. McPeek,James Graham,30-1,n/a,,
